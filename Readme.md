@@ -59,5 +59,9 @@ LeakyRelu:11个
 
 
 ### 测试图像结果  
-#### yolov3-416
-
+#### yolov3-416  
+![](https://github.com/htshinichi/onnx-yolov3/blob/master/result/dog-yolov3-416.png)  
+#### yolov3-608  
+![](https://github.com/htshinichi/onnx-yolov3/blob/master/result/dog-yolov3-608.png)  
+#### yolov3-tiny  
+![](https://github.com/htshinichi/onnx-yolov3/blob/master/result/dog-yolov3-tiny.png)
